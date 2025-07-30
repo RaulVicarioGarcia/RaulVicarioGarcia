@@ -28,5 +28,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-vicariograul@gmail.com-red?style=flat&logo=gmail)](mailto:pabloandericatorrado@gmail.com)
 
 ---
-
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=TU_USUARIO&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true)
