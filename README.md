@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Raúl
 
-<!--
-**RaulVicarioGarcia/RaulVicarioGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulVicarioGarcia&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+- **Location:** Burgos - Salamanca, Spain  
+- **Education:** Computer Engineering student at [USAL](https://usal.es)
+
+---
+
+#### Programming Languages
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)     
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  
+- ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)  
+- ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+- ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+- ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=asm-hex&logoColor=white)
+
+---
+
+### 📫 Connect with me
+
+[![Gmail](https://img.shields.io/badge/Gmail-vicariograul@gmail.com-red?style=flat&logo=gmail)](mailto:pabloandericatorrado@gmail.com)
+
+---
+
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=TU_USUARIO&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true)
