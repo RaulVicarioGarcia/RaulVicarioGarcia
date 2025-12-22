@@ -14,7 +14,7 @@
 ---
 
 #### Programming Languages
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=coffee&logoColor=white)
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 - ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat&logo=assemblyscript&logoColor=white)  
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  
 - ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)  
