@@ -19,7 +19,6 @@
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  
 - ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)  
 - ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-- ![Shell](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white)
 - ![Ada](https://img.shields.io/badge/-Ada-002035?style=flat&logo=ada&logoColor=white)
 
 ---
