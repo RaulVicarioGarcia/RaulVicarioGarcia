@@ -14,14 +14,14 @@
 ---
 
 #### Programming Languages
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
-- ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat&logo=assemblyscript&logoColor=white)  
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  
-- ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)  
 - ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 - ![Ada](https://img.shields.io/badge/-Ada-002035?style=flat&logo=ada&logoColor=white)
-- ![UML](https://img.shields.io/badge/-UML-important?style=flat)
+- ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat&logo=assemblyscript&logoColor=white)
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 - ![MATLAB](https://img.shields.io/badge/-MATLAB-e16737?style=flat&logo=matlab&logoColor=white)
+- ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- ![UML](https://img.shields.io/badge/-UML-5C2D91?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
