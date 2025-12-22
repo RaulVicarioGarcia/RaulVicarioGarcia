@@ -20,7 +20,7 @@
 - ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 - ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
 - ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=asm-hex&logoColor=white)
-- ![Ada](https://img.shields.io/badge/-Ada-02f88c?style=flat&logo=ada&logoColor=black)
+- ![Ada Badge](https://img.shields.io/badge/Made%20with-Ada-00599C?style=flat&logo=ada&logoColor=white)
 
 ---
 
