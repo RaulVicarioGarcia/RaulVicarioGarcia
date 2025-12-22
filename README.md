@@ -20,6 +20,8 @@
 - ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)  
 - ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 - ![Ada](https://img.shields.io/badge/-Ada-002035?style=flat&logo=ada&logoColor=white)
+- ![UML](https://img.shields.io/badge/-UML-important?style=flat)
+- ![MATLAB](https://img.shields.io/badge/-MATLAB-e16737?style=flat&logo=matlab&logoColor=white)
 
 ---
 
