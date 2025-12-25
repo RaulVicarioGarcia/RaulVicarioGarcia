@@ -3,7 +3,7 @@
 ---
 
 ### 📊 Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=RaulVicarioGarcia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulVicarioGarcia)
 ---
 
 ### About Me
