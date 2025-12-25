@@ -28,5 +28,6 @@
 ### 📫 Connect with me
 
 [![Gmail](https://img.shields.io/badge/Gmail-vicariograul@gmail.com-red?style=flat&logo=gmail)](mailto:pabloandericatorrado@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raúl_Vicario_García-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ra%C3%BAl-vicario-garc%C3%ADa-208979322/)
 
 ---
