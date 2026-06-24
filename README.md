@@ -1,11 +1,10 @@
-
 # Hi, I'm Raúl 
 
 <br>  
 <br> 
 
 <div align="middle">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PabloAndericaTorrado&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaulVicarioGarcia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <br> 
 
@@ -20,7 +19,7 @@
 ### Programming Languages  
 
 - 🐍 **Python**  
-- ☕ **Java**     
+- ☕ **Java**      
 - 🖥️ **Bash**  
 - 🛡️ **C**
 - 💾 **Assembly 6809**
