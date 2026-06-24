@@ -24,6 +24,7 @@
 - 🛡️ **C**
 - 💾 **Assembly 6809**
 - 📊 **MATLAB**
+- ⚙️ **Ada**
 
 ### Databases  
 
